@@ -1,3 +1,3 @@
 # hello-world
 sample hello-world!
-Just a simple HELLOW ORLD!!!
+Just a single simple HELLO WORLD!!!
